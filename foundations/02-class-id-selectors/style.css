@@ -1,0 +1,20 @@
+.pclass {
+    background-color: #EF7A71;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+
+.adjustfont {
+    font-size: 24px;
+}
+
+#first {
+    color: blue;
+    font-size: 36px;
+}
+
+#second {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
